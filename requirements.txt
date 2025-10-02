@@ -5,4 +5,5 @@ scikit-learn
 pillow
 pandas
 plotly
+openpyxl
 
